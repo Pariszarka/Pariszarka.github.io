@@ -4,3 +4,5 @@
 2-Aplikacioni duhet te ket te ruajtur cdo produkt
 
 3-Aplikacioni duhet qe ti jap perdoruesit mundesin per korrigjimin e gabimeve
+
+4-Aplikacioni duhet te kryeje sakt veprimet matematikore per ta nxjerr te sakte cmimin total te produketve qe jan blere nga klienti
