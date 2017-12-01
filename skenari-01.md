@@ -18,6 +18,6 @@ Perdoruesi kerkon emrin e produkteve qe do prihen ne fatur, me pas ai fut sasin 
 
 Perdoruresi mund te llogaris gabim sasin e produkteve te bler dhe kjo gje ben qe edhe cmimi ne fatur te printohet gabim.Por ai mund ta anulloj faturen edhe ta bej ate nga e para
 
-# Nje pershkrim pasi skenari mbaron#
+# Nje pershkrim pasi skenari mbaron
 
 Pasi fatura prihet edhe i jepet klientit ate mund ta ruash ose ta fshish nga Databaza.Por mir esht qe te ruhen sepse sistemi esht ne gjendje qe te beje inventarin e shitjeve ne fund te dites
